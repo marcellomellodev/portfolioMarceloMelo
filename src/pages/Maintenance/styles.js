@@ -28,7 +28,8 @@ export const Content = styled.div`
   gap: 20px;
 
   >h1{
-    color: ${({ theme}) => theme.colors.orange}
+    color: ${({ theme}) => theme.colors.orange};
+    text-align: center;
   }
 
 `;

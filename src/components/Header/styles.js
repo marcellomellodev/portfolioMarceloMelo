@@ -44,7 +44,8 @@ export const WrapperHeader = styled.div`
     > span{
       font-size: 25px;
       font-weight: bold;
-      color: red;
+      color: yellow;
+
     }
   }
 
