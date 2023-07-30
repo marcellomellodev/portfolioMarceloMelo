@@ -15,7 +15,6 @@ export const Container = styled.div`
   >main {
     grid-area: content;
     padding: 50px 0; 
-
   };
 `
 
@@ -31,5 +30,4 @@ export const Content = styled.div`
     color: ${({ theme}) => theme.colors.orange};
     text-align: center;
   }
-
 `;
